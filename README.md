@@ -1,33 +1,51 @@
 <div align="center">
 
-# Hi 👋, I'm Taufeeq Ahmad
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-### 🚀 Flutter Developer | Mobile App Developer | Problem Solver
+# Hi 👋 I'm Taufeeq Ahmad
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Cross+Platform+App+Developer;Firebase+%7C+REST+API+%7C+Node.js;Building+Beautiful+Mobile+Experiences" />
+### Flutter Developer • Mobile App Developer • Flutter Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=42A5F5&center=true&vCenter=true&width=800&lines=Flutter+Developer;Cross+Platform+Mobile+Apps;Firebase+%7C+Node.js+%7C+MongoDB;Clean+Architecture+%7C+REST+APIs;Always+Learning+Something+New" />
+
+<img src="https://komarev.com/ghpvc/?username=Taufeeq-ahmad&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a passionate Flutter Developer with experience building modern, responsive, and high-performance mobile applications.
+```dart
+class TaufeeqAhmad {
 
-I enjoy turning ideas into real-world products with clean architecture, beautiful UI, and scalable code.
+  final role = "Flutter Developer";
 
-- 📱 Flutter & Dart Developer
-- 🔥 Firebase Integration
-- 🌐 REST APIs
-- ⚡ State Management (GetX, Provider, Riverpod)
-- 🎨 UI/UX Enthusiast
-- 📍 Pakistan
+  final location = "Pakistan";
+
+  final experience = "Flutter | Firebase | REST APIs";
+
+  final currentlyLearning = [
+    "Clean Architecture",
+    "Riverpod",
+    "Node.js",
+    "MongoDB"
+  ];
+
+  final hobbies = [
+    "Building Apps",
+    "Learning New Technologies",
+    "UI Design"
+  ];
+
+}
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:taufeeqahmad.cs@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -45,43 +63,75 @@ I enjoy turning ideas into real-world products with clean architecture, beautifu
 
 ---
 
-# 💻 Tech Stack
+# 💙 Flutter Tech Stack
 
-### Mobile
+### Languages
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+<p>
 
-### Backend
+<img src="https://skillicons.dev/icons?i=dart,js,html,css"/>
 
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+</p>
 
-### State Management
+### Frameworks
 
-![GetX](https://img.shields.io/badge/GetX-purple?style=for-the-badge)
-![Riverpod](https://img.shields.io/badge/Riverpod-61DAFB?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-blue?style=for-the-badge)
+<p>
 
-### Tools
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,mongodb"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+</p>
+
+### Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 📱 Flutter Skills
+
+✔ Responsive UI
+
+✔ REST API Integration
+
+✔ Firebase Authentication
+
+✔ Cloud Firestore
+
+✔ Firebase Storage
+
+✔ Push Notifications
+
+✔ Riverpod
+
+✔ Provider
+
+✔ GetX
+
+✔ Shared Preferences
+
+✔ Local Database
+
+✔ Animations
+
+✔ State Management
+
+✔ Performance Optimization
+
+✔ Clean Architecture
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taufeeq-ahmad&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taufeeq-ahmad&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufeeq-ahmad&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taufeeq-ahmad&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -91,36 +141,69 @@ I enjoy turning ideas into real-world products with clean architecture, beautifu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufeeq-ahmad&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufeeq-ahmad&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taufeeq-ahmad&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Taufeeq-ahmad&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taufeeq-ahmad&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taufeeq-ahmad&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⚡ Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Current Focus
+
+- 🚀 Building high-quality Flutter applications
+- 📱 Cross-platform mobile development
+- 🔥 Firebase ecosystem
+- 🌐 Backend with Node.js & MongoDB
+- 🎨 Creating beautiful UI/UX
+- 📚 Continuously learning modern Flutter architecture
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code. Create. Innovate."*
+### *"Turning Ideas into Beautiful Mobile Apps."*
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
